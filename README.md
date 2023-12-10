@@ -29,6 +29,7 @@ Doğum Yılı Kontrolü:
 Kullanıcıdan doğum yılı, belirli bir formatta (örn. 3.12.2023) alınır. Bu tarih, nokta karakteri kullanılarak ayrılır.
 Ay değeri 1 ile 12 arasında olmalıdır. Kontrol, string::find fonksiyonu ve ardından stoi fonksiyonu kullanılarak gerçekleştirilir.
 
+
 Dosyaya Yazma:
 
 Kullanıcının girdiği bilgiler, "hesabim.txt" adlı bir dosyaya yazılır. Dosya açma ve yazma işlemleri ofstream sınıfı kullanılarak gerçekleştirilir.
