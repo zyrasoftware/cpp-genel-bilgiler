@@ -34,3 +34,6 @@ Dosyaya Yazma:
 
 Kullanıcının girdiği bilgiler, "hesabim.txt" adlı bir dosyaya yazılır. Dosya açma ve yazma işlemleri ofstream sınıfı kullanılarak gerçekleştirilir.
 Eğer dosya başarıyla açılırsa, kullanıcının bilgileri dosyaya yazılır ve bir mesajla işlemin başarıyla tamamlandığı bildirilir. Aksi takdirde, dosya açma hatası mesajı verilir.
+
+
+![image](https://github.com/Emirkksl/cpp-genel-bilgiler/assets/151434900/ee5cbe76-501e-46a7-b35e-658a7da6e9b7)
